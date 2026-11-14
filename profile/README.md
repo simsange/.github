@@ -27,6 +27,8 @@ the design notes, the tests and the behaviour the Go version has to match.
 ## Get in touch
 
 - Following the project: [sange.sh](https://sange.sh).
+- Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
+  See the [security policy](https://github.com/simsange/.github/security/policy).
 - Anything else: [opensource@simtabi.com](mailto:opensource@simtabi.com). A human
   reads it.
 
