@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://sange.sh">
+  <a href="https://simtabi.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
       <img alt="Sange — the original sange, by Simtabi" src="banner-light.svg" width="888">
@@ -26,7 +26,7 @@ the design notes, the tests and the behaviour the Go version has to match.
 
 ## Get in touch
 
-- Following the project: [sange.sh](https://sange.sh).
+- Reading the original: [simsange/sange](https://github.com/simsange/sange).
 - Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
   See the [security policy](https://github.com/simsange/.github/security/policy).
 - Anything else: [opensource@simtabi.com](mailto:opensource@simtabi.com). A human
